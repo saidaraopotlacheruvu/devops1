@@ -133,7 +133,7 @@ span.psw {
 
 <body>
     
-    <section class="main" style="background-image: url(images/hero-bg.png);">
+    <section class="main" style="background-image: url(images/LitamLogo.png);">
         
         <nav>
             <a href="#" class="logo">
