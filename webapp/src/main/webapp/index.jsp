@@ -133,7 +133,7 @@ span.psw {
 
 <body>
     
-    <section class="main" style="background-image: url(images/LitamLogo.png);">
+    <section class="main" style="background-black:">
         
         <nav>
             <a href="#" class="logo">
@@ -206,7 +206,7 @@ span.psw {
             </div>
             <!--img-->
             <div class="home-img" style="width: 500px;">
-                <img src="images/hero.png" width="500px" style="text-shadow: 20px 22px;"/>
+                <img src="images/Litamlogo.png" width="500px" style="text-shadow: 20px 22px;"/>
                 <marquee width="100%" direction="left" onmouseover="this.stop();"
                 onmouseout="this.start();">
                     <a href="#" style="color: white;">Addmission open of 13th August 2024, Stream BCA, BBA, Bio-Tech and Computer Science.</a>
